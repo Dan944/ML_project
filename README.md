@@ -1,6 +1,6 @@
 # ML Project: A face mask detector
-Team member: Peng Tianyi, Wang Shuai, Ye Huanyi
-Based on 853 pictures and three classes (wear mask, no mask, wear mask incorrectly), we improved and trained the face mask detector based on YOLOv5s. 
+Team member: `Peng Tianyi`, `Wang Shuai`, `Ye Huanyi`
+Based on `853` pictures and three classes (wear mask, no mask, wear mask incorrectly), we improved and trained the face mask detector based on `YOLOv5s`. 
 
 ## Performance
 We get `80.9 mAP0.5` in the validation dataset with more than `100FPS` in `Tesla P100-PCIE-16GB`. 
@@ -47,12 +47,14 @@ pip install -r requirements.txt
 * If you want to freeze, please train with freeze firstly, then train without freeze based on former weights.
 
 ## Effect show
+* Wear mask, and wear mask incorrectly
 <p align="center">
   <img src="show/demo1.jpg" width="480"/>
 </p>
 <p align="center">
   <img src="show/demo5.jpg" width="480"/>
 </p>
+* No mask
 <p align="center">
   <img src="show/demo2.jpg" width="280"/>
 </p>
