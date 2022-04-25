@@ -9,7 +9,7 @@ Based on 853 pictures and three classes (wear mask, no mask, wear mask incorrect
   <img src="show/demo5.jpg" width="480"/>
 </p>
 <p align="center">
-  <img src="show/demo2.jpg" width="480"/>
+  <img src="show/demo2.jpg" width="280"/>
 </p>
 
 
