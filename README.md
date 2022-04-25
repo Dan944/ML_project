@@ -5,5 +5,5 @@
 * unzip the file in `root`, replace `datasets` directory via unzip file
 * format like this 
 <p align="center">
-  <img src="results/loss_curve.png" />
+  <img src="file.png" />
 </p>
