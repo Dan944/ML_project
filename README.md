@@ -38,3 +38,8 @@ pip install -r requirements.txt
 <p align="center">
   <img src="show/demo2.jpg" width="280"/>
 </p>
+
+
+## Reference
+https://github.com/ultralytics/yolov5  
+https://github.com/spacewalk01/yolov5-face-mask-detection
